@@ -1,0 +1,9 @@
+C:/Users/maxwe/OneDrive/Documents/CompSciFinal/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/CompSciFinal.dir
+C:/Users/maxwe/OneDrive/Documents/CompSciFinal/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/maxwe/OneDrive/Documents/CompSciFinal/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/maxwe/OneDrive/Documents/CompSciFinal/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/maxwe/OneDrive/Documents/CompSciFinal/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/maxwe/OneDrive/Documents/CompSciFinal/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/maxwe/OneDrive/Documents/CompSciFinal/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/maxwe/OneDrive/Documents/CompSciFinal/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/CompSciFinal_autogen_timestamp_deps.dir
+C:/Users/maxwe/OneDrive/Documents/CompSciFinal/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/CompSciFinal_autogen.dir
